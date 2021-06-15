@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0 5px;
+}
+
+h3 {
+  margin: 0;
+}
+
+h4 {
+  font-weight: 100;
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
+.container {
+  margin: 60px;
+}
+
+.current-emoji {
+  text-align: center;
+  font-size: 60px;
+}
+
+.forecast {
+  text-align: center;
+}
+
+.forecast-days {
+  font-size: 24px;
+}
+
+.forecast-high {
+  font-size: 30px;
+}
+
+.forecast-low {
+  font-size: 20px;
+}
+
+.forecast-emoji {
+  font-size: 30px;
+}
